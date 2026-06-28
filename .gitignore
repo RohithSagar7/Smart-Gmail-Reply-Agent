@@ -1,0 +1,14 @@
+# Environment
+.env
+
+# Gmail OAuth
+credentials.json
+token.json
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
