@@ -1,4 +1,4 @@
-# Gmail Smart Reply Agent
+# Smart Gmail Reply Agent
 
 ## Overview
 
